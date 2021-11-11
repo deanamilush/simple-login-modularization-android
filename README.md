@@ -1,5 +1,4 @@
-# simple-login-modularization-android
-Simple modularization menggunakan library module android
+# Simple modularization menggunakan library module android
 
-Logika Dasar
+# Logika Dasar
 Membuat library module → menghubungkan antar module.
